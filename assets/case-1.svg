@@ -1,4 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1254 1254" width="1254" height="1254" role="img" aria-label="CRM and automation lead automation case study visual">
-  <title>CRM &amp; Automation — GoHighLevel + CloseBot Lead Automation</title>
-  <image x="0" y="0" width="1254" height="1254" preserveAspectRatio="xMidYMid meet" href="case-1.png" xlink:href="case-1.png"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1248 1248" role="img" aria-labelledby="title desc">
+<title id="title">CRM &amp; Automation — GoHighLevel + CloseBot Lead Automation</title>
+<desc id="desc">Red and black technical case study graphic showing GoHighLevel, CloseBot, lead capture, AI chatbot, email and SMS automation, and calendar booking.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03050a"/><stop offset=".55" stop-color="#090b12"/><stop offset="1" stop-color="#160207"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff2a2a"/><stop offset="1" stop-color="#ff5a45"/></linearGradient>
+ <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06203a"/><stop offset="1" stop-color="#06101d"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="35"/></filter>
+</defs>
+<rect width="1248" height="1248" fill="url(#bg)"/>
+<circle cx="1110" cy="190" r="260" fill="#ff1717" opacity=".12" filter="url(#soft)"/>
+<circle cx="310" cy="1080" r="280" fill="#ff1717" opacity=".08" filter="url(#soft)"/>
+<rect x="21" y="21" width="1206" height="1206" rx="27" fill="none" stroke="#ff202b" stroke-width="5"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <rect x="62" y="68" width="398" height="61" rx="30" fill="#c91f2b" stroke="#ff6a5c" stroke-width="3"/>
+ <text x="88" y="108" fill="#fff" font-size="29" font-weight="700" letter-spacing="2">CRM &amp; AUTOMATION</text>
+ <text x="64" y="208" fill="#fff" font-size="55" font-weight="700">GoHighLevel + CloseBot</text>
+ <text x="65" y="285" fill="#ff1f2a" font-size="67" font-weight="800">Lead Automation</text>
+ <text x="68" y="345" fill="#e8f6ff" font-size="25">Built a complete lead nurturing and booking system</text>
+ <text x="68" y="383" fill="#e8f6ff" font-size="25">using GoHighLevel, CloseBot v2 and automation</text>
+ <text x="68" y="421" fill="#e8f6ff" font-size="25">workflows to capture, qualify and schedule</text>
+ <text x="68" y="459" fill="#e8f6ff" font-size="25">appointments.</text>
+ <path d="M620 560 L760 420 L850 470 L1035 245" fill="none" stroke="#ff1826" stroke-width="18" filter="url(#glow)"/>
+ <path d="M1010 250 L1088 212 L1071 300" fill="#ff1826"/>
+ <path d="M600 720 L1110 210 M520 1000 L1120 420" stroke="#ff1826" stroke-width="2" opacity=".35"/>
+ <g fill="#05070c" stroke="#ff2d32" stroke-width="4">
+  <rect x="67" y="523" width="88" height="88" rx="25"/><rect x="67" y="623" width="88" height="88" rx="25"/>
+  <rect x="67" y="723" width="88" height="88" rx="25"/><rect x="67" y="823" width="88" height="88" rx="25"/>
+ </g>
+ <g fill="#fff" font-size="19" font-weight="700">
+  <text x="177" y="579">Lead Capture</text><text x="177" y="679">AI Chatbot</text>
+  <text x="177" y="779">Email/SMS Automation</text><text x="177" y="879">Calendar Booking</text>
+ </g>
+ <g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round">
+  <path d="M102 570 q22-32 44 0 q-22 31-44 0"/><circle cx="124" cy="555" r="8"/>
+  <path d="M95 669 q29-30 58 0"/><circle cx="124" cy="659" r="6"/>
+  <rect x="93" y="748" width="61" height="45" rx="6"/><path d="M95 753 l29 23 29-23"/>
+  <rect x="95" y="846" width="58" height="49" rx="6"/><path d="M95 861h58 M108 840v14 M140 840v14"/>
+ </g>
+ <g transform="translate(430 445) rotate(-4)">
+  <rect x="0" y="0" width="635" height="410" rx="28" fill="#05080d" stroke="#dce8f4" stroke-width="3"/>
+  <rect x="20" y="22" width="595" height="340" rx="15" fill="url(#screen)"/>
+  <text x="47" y="74" fill="#fff" font-size="30" font-weight="700">HighLevel</text>
+  <rect x="200" y="95" width="365" height="210" rx="17" fill="#f7fbff"/>
+  <circle cx="250" cy="145" r="24" fill="#1478e5"/><path d="M238 160 q12-28 25 0" fill="none" stroke="#fff" stroke-width="5"/>
+  <text x="290" y="150" fill="#10233b" font-size="21" font-weight="700">Hi! I'm here to help you</text>
+  <text x="290" y="179" fill="#10233b" font-size="21" font-weight="700">book an appointment.</text>
+  <rect x="292" y="220" width="185" height="55" rx="11" fill="#ff1e28"/>
+  <text x="324" y="256" fill="#fff" font-size="21" font-weight="700">Book Now</text>
+  <path d="M-45 410 L680 410 L730 458 L-95 458 Z" fill="#1c2731" stroke="#bfc9d2" stroke-width="3"/>
+ </g>
+ <g transform="translate(984 528)">
+  <rect width="180" height="450" rx="36" fill="#05070b" stroke="#ff4545" stroke-width="4"/>
+  <rect x="17" y="28" width="146" height="390" rx="20" fill="#f5f8fb"/>
+  <text x="35" y="80" fill="#10233b" font-size="20" font-weight="700">Appointment</text>
+  <g fill="#fff" stroke="#d8e0e8"><rect x="31" y="115" width="118" height="52" rx="10"/><rect x="31" y="177" width="118" height="52" rx="10"/><rect x="31" y="239" width="118" height="52" rx="10"/><rect x="31" y="301" width="118" height="52" rx="10"/></g>
+  <g fill="#10233b" font-size="17" font-weight="700"><text x="63" y="147">9:00 AM</text><text x="60" y="209">10:00 AM</text><text x="60" y="271">11:00 AM</text><text x="67" y="333">2:00 PM</text></g>
+ </g>
+ <g transform="translate(65 1050)">
+  <rect width="280" height="83" rx="41" fill="#070a10" stroke="#71849b" stroke-width="2"/><text x="52" y="53" fill="#fff" font-size="24" font-weight="700">GoHighLevel</text>
+  <rect x="302" width="270" height="83" rx="41" fill="#070a10" stroke="#71849b" stroke-width="2"/><text x="350" y="53" fill="#fff" font-size="24" font-weight="700">CloseBot</text>
+  <rect x="594" width="240" height="83" rx="41" fill="#070a10" stroke="#ff3b4a" stroke-width="2"/><text x="653" y="53" fill="#fff" font-size="24" font-weight="700">Twilio</text>
+  <rect x="856" width="280" height="83" rx="41" fill="#070a10" stroke="#71849b" stroke-width="2"/><text x="920" y="53" fill="#fff" font-size="24" font-weight="700">Zapier</text>
+ </g>
+</g></svg>
