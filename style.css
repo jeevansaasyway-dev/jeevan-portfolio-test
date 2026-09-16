@@ -99,14 +99,14 @@ img{max-width:100%}
 
 footer{padding:28px max(6vw,24px);color:var(--muted);font-size:12px;text-align:center;border-top:1px solid var(--line);background:var(--bg);font-weight:400}
 
-/* Case study 01: keep the square artwork contained inside a compact card image area. */
-.case-image-primary{height:320px!important;aspect-ratio:auto;object-fit:contain!important;object-position:center;background:#03050a;padding:0!important;filter:none!important;border-bottom:1px solid rgba(41,40,36,.14)}
+/* Case study 01: fit the square SVG cleanly inside the card. */
+.case-image-primary{height:465px!important;aspect-ratio:auto;object-fit:contain!important;object-position:center;background:#03050a;padding:0!important;filter:none!important;border-bottom:1px solid rgba(41,40,36,.14)}
 .case:hover .case-image-primary{transform:none!important;filter:none!important}
 
 @media(max-width:1000px){
   .hero{min-height:auto;padding-top:80px;padding-bottom:88px}
   .projects{grid-template-columns:1fr}
-  .case-image-primary{height:420px!important}
+  .case-image-primary{height:465px!important}
 }
 
 @media(max-width:760px){
@@ -128,7 +128,7 @@ footer{padding:28px max(6vw,24px);color:var(--muted);font-size:12px;text-align:c
   .about-content .about-lead{font-size:20px;line-height:1.55}
   .projects{gap:18px;margin-top:38px}
   .case-image{height:190px}
-  .case-image-primary{height:300px!important}
+  .case-image-primary{height:465px!important}
   .case-body{padding:24px 22px 27px}
   .case h3{font-size:25px}
   .tags{margin-top:28px}
